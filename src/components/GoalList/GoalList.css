@@ -1,0 +1,12 @@
+.goals-list {
+  margin: 2rem;
+  padding: 0;
+}
+
+.goals-list li {
+  font-size: 20px;
+  margin: 5px;
+  color: rgb(25, 34, 133);
+  border: 1px solid #ccc;
+  padding: 5px;
+}
